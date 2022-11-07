@@ -1,3 +1,9 @@
+# Manually added
+Scraping/config.ini
+Scraping/data/output/
+Scraping/data/raw/
+Analysis/data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
