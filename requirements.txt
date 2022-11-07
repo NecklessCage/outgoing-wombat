@@ -1,0 +1,15 @@
+certifi @ file:///croot/certifi_1665076670883/work/certifi
+-e git+https://github.com/NecklessCage/MyanmarNLPTools.git@f2fb9b1cacdef86426e262c45bc5c91b1c324172#egg=MyanmarNLPTools
+myanmartools==1.2.1
+numpy==1.23.4
+pandas==1.5.1
+pyaes==1.6.1
+pyasn1==0.4.8
+PyICU==2.10.2
+python-dateutil==2.8.2
+pytz==2022.6
+rsa==4.9
+six==1.16.0
+-e git+https://github.com/NecklessCage/outgoing-wombat.git@37ad06fe2620e6dcbe01374e8d0e9c979af62b28#egg=Sqlite3Helpers&subdirectory=Sqlite3Helpers
+Telethon==1.25.4
+tqdm==4.64.1

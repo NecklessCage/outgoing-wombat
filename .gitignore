@@ -2,6 +2,7 @@
 Scraping/config.ini
 Scraping/data/output/
 Scraping/data/raw/
+Scraping/db/*.db
 Analysis/data/
 
 # Byte-compiled / optimized / DLL files
