@@ -13,8 +13,8 @@
 - Get your telegram API key and API hash, and add to the `Scraping/config.ini` (rename `config.blank.ini` to `config.ini` when ready)
   - Create a puppet TG account
   - Get your API details at [https://my.telegram.org/](https://my.telegram.org/)
-      - TG will give error if you’re using a VPN. So disconnect VPN temporarily for this part. In my experience, API details can still give error. Firefox works for me every time.
-      - Save the API details in a file.
+    - TG will give error if you’re using a VPN. So disconnect VPN temporarily for this part. In my experience, API details can still give error. Firefox works for me every time.
+    - Save the API details in a file.
 - Activate Python environment set up above
 - Go to `Scraping/py/` and run `python telethon_channel_posts_scraper_v0.2.py`. It'll take a few minutes or a few days depending on the number of channels and how active they are
 - Once it's done, in the same directory, run `python etl_clean.py` which will extract and create useful data table in Sqlite3 database
