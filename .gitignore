@@ -5,6 +5,8 @@ Scraping/data/raw/*.txt
 Scraping/db/*.db
 Analysis/data/
 
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
